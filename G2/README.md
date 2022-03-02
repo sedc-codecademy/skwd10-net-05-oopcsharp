@@ -18,7 +18,7 @@ This repository will contain every piece of material about the subject. It will 
 
 ## Resources for being up to date with C\#
 
-* [How to install Visual Studio](VisualStudio.md)
+* [How to install Visual Studio](../VisualStudio.md)
 
 ### Sites and newsletters
 
