@@ -1,0 +1,13 @@
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class01\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.exe
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class01\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.deps.json
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class01\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.runtimeconfig.json
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class01\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.runtimeconfig.dev.json
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class01\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.dll
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class01\SEDC.Templates\SEDC.Templates.Class01.App\bin\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.pdb
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class01\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.csprojAssemblyReference.cache
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class01\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.AssemblyInfoInputs.cache
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class01\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.AssemblyInfo.cs
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class01\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.csproj.CoreCompileInputs.cache
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class01\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.dll
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class01\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.pdb
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class01\SEDC.Templates\SEDC.Templates.Class01.App\obj\Debug\netcoreapp3.1\SEDC.Templates.Class01.App.genruntimeconfig.cache
