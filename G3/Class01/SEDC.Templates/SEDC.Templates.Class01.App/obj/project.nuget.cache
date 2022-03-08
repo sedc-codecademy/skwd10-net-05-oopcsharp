@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4Dt0tj6eX6wE2bvIGb0u/3EMzYJzv0EUe2q/1oHRyShsnUtx/p/bBz6aqEhMo1Q+p+MlI5l8YdeLaTbuc6CONQ==",
+  "success": true,
+  "projectFilePath": "C:\\SEDC\\sedc10\\OopBasic\\skwd10-net-05-oopcsharp\\G3\\Class01\\SEDC.Templates\\SEDC.Templates.Class01.App\\SEDC.Templates.Class01.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Trajan.Stevkovski\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
