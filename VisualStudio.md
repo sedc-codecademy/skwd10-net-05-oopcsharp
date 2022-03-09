@@ -1,7 +1,7 @@
 ## How to install VS 2019 🎈
 1. Download Visual Studio Community version from this link:
 
-[Visual Studio Community](https://visualstudio.microsoft.com/vs/)
+[Visual Studio Community](https://visualstudio.microsoft.com/vs/older-downloads/)
 ![InstallStep0.1](img/01.png)
 ![InstallStep0.2](img/02.png)
 
