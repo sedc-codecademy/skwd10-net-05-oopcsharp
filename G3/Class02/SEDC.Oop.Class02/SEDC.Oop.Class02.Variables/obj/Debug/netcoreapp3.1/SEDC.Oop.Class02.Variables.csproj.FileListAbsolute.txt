@@ -1,0 +1,13 @@
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class02\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.exe
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class02\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.deps.json
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class02\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.runtimeconfig.json
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class02\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.runtimeconfig.dev.json
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class02\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.dll
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class02\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\bin\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.pdb
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class02\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.csprojAssemblyReference.cache
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class02\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.AssemblyInfoInputs.cache
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class02\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.AssemblyInfo.cs
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class02\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.csproj.CoreCompileInputs.cache
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class02\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.dll
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class02\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.pdb
+C:\SEDC\sedc10\OopBasic\skwd10-net-05-oopcsharp\G3\Class02\SEDC.Oop.Class02\SEDC.Oop.Class02.Variables\obj\Debug\netcoreapp3.1\SEDC.Oop.Class02.Variables.genruntimeconfig.cache

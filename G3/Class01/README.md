@@ -64,4 +64,3 @@ Console.ReadLine();
 
 * [Difference between C# and .NET](https://www.educba.com/c-sharp-vs-net/)
 * [Official Microsoft Introduction](https://docs.microsoft.com/en-us/dotnet/csharp/tutorials/intro-to-csharp/)
-* [Console WriteLine Documentation](https://docs.microsoft.com/en-us/dotnet/api/system.console.writeline?view=netcore-3.1)
