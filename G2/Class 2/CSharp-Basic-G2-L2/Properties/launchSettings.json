@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CSharp-Basic-G2-L2": {
+      "commandName": "Project"
+    },
+    "WSL 2": {
+      "commandName": "WSL2",
+      "environmentVariables": {},
+      "distributionName": ""
+    }
+  }
+}
