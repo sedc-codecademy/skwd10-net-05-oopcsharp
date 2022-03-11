@@ -31,6 +31,9 @@ Make a console application called SumOfEven. Inside it create an array of 6 inte
 
   
 ## Task 3
+Ask the user to enter a number as an input. Print all the numbers except the numbers divisible by 5. When you come to 80, the limit is reached.
+  
+## Task 4
 * Make a new console application. 
 * Create an array of 10 whole numbers (integers). 
 * Find the minimum and maximum and print them in the console.
