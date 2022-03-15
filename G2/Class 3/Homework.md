@@ -22,7 +22,9 @@ Make a console application called SumOfEven. Inside it create an array of 6 inte
 * Make a new console application called StudentGroup
 * Make 2 arrays called studentsG1 and studentsG2 and fill them with 5 student names. 
 * Get a number from the console between 1 and 2 and print the students from that group in the console.
-* Ex: studentsG1 ["Zdravko", "Petko", "Stanko", "Branko", "Trajko"]
+* Ex: 
+* studentsGOne ["Zdravko", "Petko", "Stanko", "Branko", "Trajko"]
+* studentsGTwo ["Zoki", "Mile", "Brus", "Petko", "Vele"]
 * Test Data:
   * Enter student group: ( there are 1 and 2 )
     * 1
