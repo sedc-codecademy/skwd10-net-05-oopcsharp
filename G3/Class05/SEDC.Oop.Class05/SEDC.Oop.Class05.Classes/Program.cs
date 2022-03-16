@@ -21,6 +21,15 @@ namespace SEDC.Oop.Class05.Classes
 
             person1.Talk("Hello Students!");
 
+            Person person2 = new Person("Bob", 23);
+            person2.Talk("Bob is my name");
+
+
+            Human human = new Human("Trajan", "Stevkovski", 33);
+            HumanInfoResult result = human.GetHumanInfo();
+
+            Console.WriteLine(string.Format("{0} {1}", result.FullName, result.Age));
+
             Console.ReadLine();
         }
     }
