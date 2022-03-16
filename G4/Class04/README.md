@@ -107,7 +107,66 @@ string trimmedString = ourString.Trim();
 Console.WriteLine(trimmedString);
 ```
 
+## DateTime
+
+DateTime is a complex type in C# representing the date and the time at a particular moment. This complex type can be edited, manipulated, and used every time we need to store dates or time and change or use it easily.
+
+### Creating DateTime
+
+```csharp
+DateTime aDate = new DateTime(); // Creating a new empty date
+DateTime aCustomDate = new DateTime(1992, 10, 15); // Creating a custom date
+DateTime currentDay = DateTime.Today; // Getting todays date without time
+DateTime currentDateTime = DateTime.Now; // Getting todays date with time
+```
+
+### Converting and formating a string
+
+```csharp
+string dateFormat1 = DateTime.Now.ToString("MM/dd/yyyy"); // Formating date to string
+string dateFormat2 = DateTime.Now.ToString("dddd, dd MMMM yyyy"); // Formating date to string
+string stringDate = "12-15-2012"; 
+DateTime convertedDate = DateTime.Parse(stringDate); // Converting string to date
+```
+
+### Manipulating DateTime
+
+```csharp
+DateTime  currentDateTime  =  DateTime.Now;
+
+// Adding or removing days to a DateTime date
+DateTime addedDays = currentDateTime.AddDays(2);
+Console.WriteLine(addedDays);
+DateTime removedDays = currentDateTime.AddDays(-5);
+Console.WriteLine(removedDays);
+
+// Adding months to a DateTime date
+DateTime addedMonths = currentDateTime.AddMonths(2);
+Console.WriteLine(addedMonths);
+
+// Adding years to a DateTime date
+DateTime addedYears = currentDateTime.AddYears(2);
+Console.WriteLine(addedYears);
+
+// Adding hours to a DateTime date
+DateTime addedHours = currentDateTime.AddHours(3);
+Console.WriteLine(addedHours);
+
+// Get the number of the month from a DateTime
+int month = currentDateTime.Month;
+Console.WriteLine(month);
+
+// Get the number of the day from a DateTime
+int day = currentDateTime.Day;
+Console.WriteLine(day);
+
+// Get the number of the year from a DateTime
+int year = currentDateTime.Year;
+Console.WriteLine(year);
+```
 
 ## Extra Materials 📘
 
 * [Official Microsoft documentation for methods](https://docs.microsoft.com/en-us/dotnet/csharp/methods)
+* [.NET Pearls - DateTime](https://www.dotnetperls.com/datetime)
+* [.NET Pearls - DateTime format](https://www.dotnetperls.com/datetime-format)
