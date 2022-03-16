@@ -29,6 +29,22 @@ namespace SEDC.Oop.Class05.Classes
             HumanInfoResult result = human.GetHumanInfo();
 
             Console.WriteLine(string.Format("{0} {1}", result.FullName, result.Age));
+            Console.WriteLine(result.DateOfBirth);
+
+            //Human h = null;
+            //h.Age = 12;
+
+            //if(h == null)
+            //{
+
+            //}
+
+            var anonymousObject = new
+            {
+                Name = "Anonymous Object",
+                Quantity = 33
+            };
+
 
             Console.ReadLine();
         }

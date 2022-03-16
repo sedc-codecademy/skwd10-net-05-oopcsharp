@@ -8,5 +8,6 @@ namespace SEDC.Oop.Class05.Classes.Models
     {
         public string FullName { get; set; }
         public int Age { get; set; }
+        public DateTime DateOfBirth { get; set; }
     }
 }

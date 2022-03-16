@@ -22,7 +22,8 @@ namespace SEDC.Oop.Class05.Classes.Models
             HumanInfoResult hir = new HumanInfoResult
             {
                 Age = Age,
-                FullName = string.Format("{0} {1}", FirstName, LastName)
+                FullName = string.Format("{0} {1}", FirstName, LastName),
+                DateOfBirth = DateTime.Now.AddYears(-Age)
             };
             return hir;
         }
