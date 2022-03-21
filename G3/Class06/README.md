@@ -1,4 +1,4 @@
-# Homework Class 6 📒
+# Exercises Class 6 📒
 
 ## Task 1
 
@@ -28,6 +28,8 @@ Create a class User with the following:
 * Username - string
 * Password - string
 * Messages - Array of strings
+
+
 Create an array of users and add 3 users to it manually ( hard-coded ).
 
 Create a Console UI that will ask the user:
