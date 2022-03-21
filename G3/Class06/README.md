@@ -1,4 +1,4 @@
-# Homework Class 6 📒
+# Exercises Class 6 📒
 
 ## Task 1
 
