@@ -1,4 +1,4 @@
-# Class 07 - Constructors, Enums, Class Libraries, and Inheritance 😜
+# Class 07 - Inheritance, Enums, Class Libraries, and Inheritance 😜
 
 ## Inheritance
 
