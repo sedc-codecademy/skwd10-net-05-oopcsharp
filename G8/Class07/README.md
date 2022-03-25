@@ -1,43 +1,40 @@
-# Class 07 - Inheritance, Enums, Class Libraries, and Inheritance 😜
+# Class 07 - Constructors, Enums, Class Libraries, and Inheritance 😜
 
-## Inheritance
+## Constructors
 
-Inheritance is one of the main pillars of object oriented programming. This means that an entity can inherit some properties or methods from another entity. Some of the benefits of Inheritance are:
-
-- We can reuse some common properties or methods in our code​
-- We can organize entities by their place in the inheritance tree ( precise or general )​
-- Multiple different entities can inherit from a same source​
-
-### Example of Inheritance in C#
+A huge role in C# classes plays the constructors. Constructor is a method that is executed when an object is created from a class. Constructors in C# classes are written as methods but they don't have any return value and their name is always the same as the class name. The only thing that we can manipulate in a constructor is the parameters. Constructors in C# classes can have multiple constructors, and depending on how we create a class, we get a different execution of a constructor. This always depends on the parameters
 
 ```csharp
-public class Animal
+public class Person
 {
-  public string Name { get; set; }
-
-  public string Age { get; set; }
-
-  public Animal(string name, string age)
+  public string Name {get;set;}
+  public string Age {get;set;}
+  private long AccountNumber {get;set;}
+  // Parametarless constructor ( new Person() )
+  public Person(){
+    AccountNumber = 34235432452;
+  }
+  // Constructor with parameters ( new Person("Bob", 34) )
+  public Person(string name, int age)
   {
-    Name = name
+    Name = name;
     Age = age;
+    AccountNumber = 25325325221;
+  }
+  public void Talk(string text){
+    Console.WriteLine($"Human {Name} is saying {text}");
   }
 }
+```
 
-public class Dog : Animal
-{
-  public string Breed { get; set; }
+### Constructing object from the constructor with parameters
 
-  public Dog(string name, string age, string breed) : base(name, age)
-  {
-    Breed = breed;
-  }
-
-  public void Bark()
-  {
-    Console.WriteLine("Woof woof");
-  }
-}
+```csharp
+// Using the first constructor
+Person George = new Person();
+// Using the second constructor
+Person bill = new Person("Bill", 25);
+bill.Talk();
 ```
 
 ## Enumerations
