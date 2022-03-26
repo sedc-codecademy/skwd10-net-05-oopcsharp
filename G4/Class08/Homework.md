@@ -6,6 +6,7 @@ Extend the exercise for Employees with two more Employees. Add a class called Co
 * A new method called CurrentPosition should return the department of the manager that is responsible for this Contractor
 
 ## Task 2
+In the same exercise:
 * Make an array called Company with 2 contractors, 2 managers and 1 salesPerson
 * Make a new class CEO that inherits from Employee that will have a property Employees ( an array of Employees), Shares property ( int ), SharesPrice ( double )
 * The shares price should not be accessed from outside of the class
