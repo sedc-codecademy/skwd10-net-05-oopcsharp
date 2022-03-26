@@ -1,1 +1,2 @@
-This is init file
+This is a init file
+Hello
