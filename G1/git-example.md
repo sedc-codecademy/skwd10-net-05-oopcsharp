@@ -1,3 +1,3 @@
-This is init file Risto's change
+This is a init file Hello Risto's change
 
 Added some code here
