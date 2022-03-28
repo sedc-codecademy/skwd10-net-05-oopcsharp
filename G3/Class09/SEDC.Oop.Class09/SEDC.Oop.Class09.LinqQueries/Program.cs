@@ -90,9 +90,9 @@ namespace SEDC.Oop.Class09.LinqQueries
             //valid
             Product startsWithO = products.First(x => x.Name.StartsWith("O"));
             // will throw exception
-            //Product startsWithO1 = products.First(x => x.Name.StartsWith("1"));
+            Product startsWithO1 = products.First(x => x.Name.StartsWith("1"));
             // wiill return null
-            Product startsWithO1 = products.FirstOrDefault(x => x.Name.StartsWith("1"));
+            //Product startsWithO1 = products.FirstOrDefault(x => x.Name.StartsWith("1"));
 
             // valid    
             Product lastStartsWithO = products.Last(x => x.Name.StartsWith("O"));
