@@ -8,6 +8,19 @@ namespace SEDC.Oop.Class09.ErrorHandling
     {
         static void Main(string[] args)
         {
+            //while(true)
+            //{
+            //    try
+            //    {
+            //        // all the code here
+            //    }
+            //    catch (Exception)
+            //    {
+            //        // chgange color and give friendy message to user
+            //        Console.WriteLine();
+            //    }
+            //}
+
             Console.WriteLine("Number example");
             Console.WriteLine("Enter a number: ");
             #region a
