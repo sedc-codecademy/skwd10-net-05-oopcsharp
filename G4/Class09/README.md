@@ -1,4 +1,4 @@
-# Class 08 - Collection Types 😏
+# Class 09 - Collection Types 😏
 
 ## Different types of collections
 
