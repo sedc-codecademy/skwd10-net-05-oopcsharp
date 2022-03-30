@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{AB846B22-17B9-481A-BC5D-9814B6B99272}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonApp", "PersonApp\PersonApp.csproj", "{EAFEDE05-A92D-4253-B832-BF918AE6E55E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AB846B22-17B9-481A-BC5D-9814B6B99272}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB846B22-17B9-481A-BC5D-9814B6B99272}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB846B22-17B9-481A-BC5D-9814B6B99272}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB846B22-17B9-481A-BC5D-9814B6B99272}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAFEDE05-A92D-4253-B832-BF918AE6E55E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAFEDE05-A92D-4253-B832-BF918AE6E55E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAFEDE05-A92D-4253-B832-BF918AE6E55E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAFEDE05-A92D-4253-B832-BF918AE6E55E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A22A1965-6FD3-4ADD-9F6A-AC2DD69F222F}
+	EndGlobalSection
+EndGlobal
