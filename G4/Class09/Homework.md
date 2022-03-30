@@ -1,4 +1,4 @@
-# Homework Class 8 📒
+# Homework Class 9 📒
 
 ## Task 1
 * Give the user an option to input 5 numbers

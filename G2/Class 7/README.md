@@ -1,8 +1,5 @@
-# Class 07 - Inheritance, Enums, Class Libraries, and Inheritance 😜
 
-## Inheritance
 
-Inheritance is one of the main pillars of object oriented programming. This means that an entity can inherit some properties or methods from another entity. Some of the benefits of Inheritance are:
 
 - We can reuse some common properties or methods in our code​
 - We can organize entities by their place in the inheritance tree ( precise or general )​
@@ -11,33 +8,17 @@ Inheritance is one of the main pillars of object oriented programming. This mean
 ### Example of Inheritance in C#
 
 ```csharp
-public class Animal
 {
-  public string Name { get; set; }
-
-  public string Age { get; set; }
-
-  public Animal(string name, string age)
   {
-    Name = name
     Age = age;
+    AccountNumber = 25325325221;
+  }
+  public void Talk(string text){
+    Console.WriteLine($"Human {Name} is saying {text}");
   }
 }
 
-public class Dog : Animal
-{
-  public string Breed { get; set; }
 
-  public Dog(string name, string age, string breed) : base(name, age)
-  {
-    Breed = breed;
-  }
-
-  public void Bark()
-  {
-    Console.WriteLine("Woof woof");
-  }
-}
 ```
 
 ## Enumerations
