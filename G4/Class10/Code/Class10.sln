@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RetroExercise", "RetroExercise\RetroExercise.csproj", "{9AE3C4D4-1F61-4D51-8620-F6E7365B5ED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ErrorHandling", "ErrorHandling\ErrorHandling.csproj", "{F3385040-34BC-4B9B-8537-C7727E2F94D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9AE3C4D4-1F61-4D51-8620-F6E7365B5ED6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AE3C4D4-1F61-4D51-8620-F6E7365B5ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AE3C4D4-1F61-4D51-8620-F6E7365B5ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AE3C4D4-1F61-4D51-8620-F6E7365B5ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3385040-34BC-4B9B-8537-C7727E2F94D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3385040-34BC-4B9B-8537-C7727E2F94D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3385040-34BC-4B9B-8537-C7727E2F94D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3385040-34BC-4B9B-8537-C7727E2F94D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6ED48DA-AD4C-4D37-ADE9-257B81C5E3D4}
+	EndGlobalSection
+EndGlobal
