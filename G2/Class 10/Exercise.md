@@ -14,7 +14,6 @@ After logging in there should be different options for different roles:
 * Admins can add/remove Teachers, Students, and other Admins ( can't remove itself )
 * Trainer can choose between seeing all students and all subjects
   * When choosing Students, all student names should appear
-  * When chosen a name, it should print all the subjects
   * When choosing Subjects, all Subject names appear with how many students attend it next to it
 * Students are shown the name of the subject that they are listening to and a list of their grades
 
